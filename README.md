@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+                                    SHARKS AND MINOS
 
-You can use the [editor on GitHub](https://github.com/JakeAbbo/MAGD_151/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+Sharks and Minos is a simple game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A shark swims around a limited area  in a top down perspective trying to eat little minos.
 
-### Markdown
+each mino is a certain amont of ponts ad everytime you eat one you recive those points.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+the player has a limited amount of time to eat as many minos as they can.
 
-```markdown
-Syntax highlighted code block
+after the time is up the game is over and the game restarts.
 
-# Header 1
-## Header 2
-### Header 3
+the player can also get a game over by not fullfilling the hunger bar at the bottom of the screen efore the time runs out.
 
-- Bulleted
-- List
+he hunger bar oes down by not eating any minos at all
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JakeAbbo/MAGD_151/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  7 Main Features:
+  Moveable shark with mouse
+  Hunger bar
+  Timer
+  Minos swimming
+  Shark eating the minos 
+  Score 
+  Pass or fail of game
